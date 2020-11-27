@@ -1,0 +1,7 @@
+.place_margins_top-bottom {
+  margin: 0 0 80px;
+}
+
+.place_margins_top-bottom:last-of-type {
+  margin: 0;
+}
