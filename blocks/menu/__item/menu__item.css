@@ -7,3 +7,10 @@
 .menu__item:last-of-type {
   margin-right: 0;
 }
+
+@media screen and (max-width: 320px) {
+  .menu__item {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
