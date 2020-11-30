@@ -5,3 +5,15 @@
 .place_margins_top-bottom:last-of-type {
   margin: 0;
 }
+
+@media screen and (max-width: 768px) {
+  .place_margins_top-bottom {
+    margin: 0 0 72px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .place_margins_top-bottom {
+    margin: 0 0 50px;
+  }
+}
