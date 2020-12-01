@@ -3,7 +3,6 @@
   grid-template-columns: minmax(200px, 460px) minmax(200px, 484px);
   column-gap: 40px;
   row-gap: 48px;
-  border: 1px solid red;
 }
 
 @media screen and (max-width: 1024px) {
@@ -18,9 +17,9 @@
   }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 640px) {
   .place {
-    grid-template-columns: minmax(320px, 425px);
+    grid-template-columns: minmax(320px, 640px);
     row-gap: 32px;
   }
 }

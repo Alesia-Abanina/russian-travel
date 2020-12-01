@@ -1,4 +1,4 @@
 .cover {
-  width: 100vw;
+  display: flex;
   max-width: 1184px;
 }
