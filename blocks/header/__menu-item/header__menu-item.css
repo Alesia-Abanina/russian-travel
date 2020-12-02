@@ -1,15 +1,15 @@
-.menu__item {
-  margin-right: 18px;
+.header__menu-item {
+  margin-right: 14px;
   font-size: 24px;
   line-height: 28px;
 }
 
-.menu__item:last-of-type {
+.header__menu-item:last-of-type {
   margin-right: 0;
 }
 
 @media screen and (max-width: 425px) {
-  .menu__item {
+  .header__menu-item {
     font-size: 18px;
     line-height: 20px;
   }
