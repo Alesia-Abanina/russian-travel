@@ -1,5 +1,9 @@
 .header__menu {
+  display: flex;
   padding-top: 42px;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
 
 @media screen and (max-width: 425px) {
